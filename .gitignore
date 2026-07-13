@@ -21,3 +21,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xmlDados/merged_df.txt
+Dados/merged_df_minusculo.csv
